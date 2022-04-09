@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
+## Portfolio
 
-You can use the [editor on GitHub](https://github.com/surajkmahto/surajkmahto.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+SDE 2 @ Deliverr | Ex-Tekion | Ex-NI | 3.5 YOE in Java, REST, Kafka, C#, and MicroServices
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/surajkumarmahto/)](https://www.linkedin.com/in/surajkumarmahto/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:contact.skm1997@gmail.com)](mailto:contact.skm1997@gmail.com) [![Twitter](https://img.shields.io/badge/<surajkmahto>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/surajkmahto)](https://twitter.com/surajkmahto)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+---
 
-```markdown
-Syntax highlighted code block
+## Languages and Tools
 
-# Header 1
-## Header 2
-### Header 3
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![CircleCI](https://img.shields.io/badge/circle%20ci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-- Bulleted
-- List
+---
 
-1. Numbered
-2. List
+## Experience
 
-**Bold** and _Italic_ and `Code` text
+### **SOFTWARE DEVELOPMENT ENGINEER 2**
+### DELIVERR
 
-[Link](url) and ![Image](src)
-```
+Working from scratch to build a return platform to reduce the overall complexity and time of return between seller and customer. Leading multiple projects to facilitate 3P integrations and provide return solution for merchants.
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### **BACKEND DEVELOPER**
+### TEKION
 
-### Jekyll Themes
+I have worked on Java and AWS to develop the e2e Retail and ERP systems for automobile dealerships.
+I got the chance to work with a very high-tech founding team(Ex-Tesla). I completed multiple Inbound/Outbound Integration of OEMs, Insurance Providers, and Dealerships in the ARC (Automotive Retail Cloud).
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/surajkmahto/surajkmahto.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### **SOFTWARE ENGINEER**
+### NATIONAL INSTRUMENTS
 
-### Support or Contact
+Added basic module support of CompactRIO modules in LabVIEW NXG and their decomposition in Hardware Targets.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+---
+
+## Education
+
+### **BIRLA INSTITUTE OF TECHNOLOGY**
+### BTech Computer Science (2014- 2018)
+GPA 8.2
+
+---
+
+### INTERESTS
+Apart from being a backend developer, I like playing badminton and computer games. I also like to read about tech blogs.
+I love traveling to different places and exploring different cultures
