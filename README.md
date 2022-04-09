@@ -1,9 +1,12 @@
 ## Portfolio
+<!-- <img src="deliverr_red.png" alt="typescript" width="32" height="32"/>
+ -->
+SDE 2 @ Deliverr  \| Ex-Tekion \| Ex-NI \| 3.5 YOE in Java, REST, Kafka, C#, and MicroServices
 
-SDE 2 @ Deliverr :rocket: \| Ex-Tekion \| Ex-NI \| 3.5 YOE in Java, REST, Kafka, C#, and MicroServices
 
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/surajkumarmahto/)](https://www.linkedin.com/in/surajkumarmahto/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:contact.skm1997@gmail.com)](mailto:contact.skm1997@gmail.com) [![Twitter](https://img.shields.io/badge/<surajkmahto>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/surajkmahto)](https://twitter.com/surajkmahto)
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/surajkumarmahto/)](https://www.linkedin.com/in/surajkumarmahto/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:contact.skm1997@gmail.com)](mailto:contact.skm1997@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/surajkumarmahto/) [![Twitter](https://img.shields.io/badge/<surajkmahto>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/surajkmahto)](https://twitter.com/surajkmahto)
 
 ---
 
