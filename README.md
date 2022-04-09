@@ -1,6 +1,6 @@
 ## Portfolio
 
-SDE 2 @ Deliverr | Ex-Tekion | Ex-NI | 3.5 YOE in Java, REST, Kafka, C#, and MicroServices
+SDE 2 @ Deliverr :rocket: \| Ex-Tekion \| Ex-NI \| 3.5 YOE in Java, REST, Kafka, C#, and MicroServices
 
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/surajkumarmahto/)](https://www.linkedin.com/in/surajkumarmahto/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:contact.skm1997@gmail.com)](mailto:contact.skm1997@gmail.com) [![Twitter](https://img.shields.io/badge/<surajkmahto>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/surajkmahto)](https://twitter.com/surajkmahto)
@@ -15,21 +15,22 @@ SDE 2 @ Deliverr | Ex-Tekion | Ex-NI | 3.5 YOE in Java, REST, Kafka, C#, and Mic
 
 ## Experience
 
-### **SOFTWARE DEVELOPMENT ENGINEER 2**
-### DELIVERR
+### **DELIVERR \| SOFTWARE DEVELOPMENT ENGINEER 2**
 
 Working from scratch to build a return platform to reduce the overall complexity and time of return between seller and customer. Leading multiple projects to facilitate 3P integrations and provide return solution for merchants.
 
-### **BACKEND DEVELOPER**
-### TEKION
+### **TEKION \| BACKEND DEVELOPER**
 
 I have worked on Java and AWS to develop the e2e Retail and ERP systems for automobile dealerships.
 I got the chance to work with a very high-tech founding team(Ex-Tesla). I completed multiple Inbound/Outbound Integration of OEMs, Insurance Providers, and Dealerships in the ARC (Automotive Retail Cloud).
 
-### **SOFTWARE ENGINEER**
-### NATIONAL INSTRUMENTS
+### **NATIONAL INSTRUMENTS \| SOFTWARE ENGINEER**
 
 Added basic module support of CompactRIO modules in LabVIEW NXG and their decomposition in Hardware Targets.
+
+### **COMVIVA \| PRODUCT DEVELOPMENT ENGINEER**
+
+Developed multiple Java plugins for MRTM for Indosat and Optus to efficiently manage their campaigns for over 50 million customers. I also worked on a REST microservice to enable batch request processing for loyalty points in the MRTM module which helped in improving the load distribution of real-time operations by over 35\%.
 
 ---
 
@@ -43,4 +44,4 @@ GPA 8.2
 
 ### INTERESTS
 Apart from being a backend developer, I like playing badminton and computer games. I also like to read about tech blogs.
-I love traveling to different places and exploring different cultures
+I love traveling to different places and exploring different cultures.
