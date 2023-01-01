@@ -1,7 +1,7 @@
 ## hi, i'm [Suraj Kumar Mahto](https://surajkmahto.github.io/)
 <!-- <img src="deliverr_red.png" alt="typescript" width="32" height="32"/>
  -->
-SDE 2 @ Deliverr  \| Ex-Tekion \| Ex-NI \| 3.5 YOE in Java, REST, Kafka, C#, and MicroServices
+SDE 2 @ Shopify  \| Ex-Tekion \| Ex-NI \| 5 YOE in Java, REST, Kafka, AWS, and MicroServices
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/surajkumarmahto/)](https://www.linkedin.com/in/surajkumarmahto/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:contact.skm1997@gmail.com)](mailto:contact.skm1997@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/surajkumarmahto/) [![Twitter](https://img.shields.io/badge/<surajkmahto>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/surajkmahto)](https://twitter.com/surajkmahto) <a href="https://github.com/surajkmahto/surajkmahto.github.io/blob/main/SurajKumarMahto_Resume.pdf"><img src="cv.svg" alt="Curriculum Vitae" width="40" height="26"></a>
 
@@ -15,20 +15,22 @@ SDE 2 @ Deliverr  \| Ex-Tekion \| Ex-NI \| 3.5 YOE in Java, REST, Kafka, C#, and
 
 ## Experience
 
-### **DELIVERR \| SOFTWARE DEVELOPMENT ENGINEER 2**
+### **SHOPIFY \| SOFTWARE DEVELOPMENT ENGINEER 2 \| NOV 21 - PRESENT**
 
-Working from scratch to build a return platform to reduce the overall complexity and time of return between seller and customer. Leading multiple projects to facilitate 3P integrations and provide return solution for merchants.
+Joined Shopify as part of the acquisition of Deliverr. Working from scratch to build a return platform to reduce the overall complexity and time of return between seller and customer. Leading multiple projects to facilitate 3P integrations and provide return solution for merchants. Building shopify logistics - unbundled services i.e. returns and storage. 
+Storage as a service will enable merchants to effectively manage and distribute their inventory across fulfilment, wholesale, B2B and other networks.
 
-### **TEKION \| BACKEND DEVELOPER**
+
+### **TEKION \| BACKEND DEVELOPER \| NOV 20 - NOV 21**
 
 I have worked on Java and AWS to develop the e2e Retail and ERP systems for automobile dealerships.
 I got the chance to work with a very high-tech founding team(Ex-Tesla). I completed multiple Inbound/Outbound Integration of OEMs, Insurance Providers, and Dealerships in the ARC (Automotive Retail Cloud).
 
-### **NATIONAL INSTRUMENTS \| SOFTWARE ENGINEER**
+### **NATIONAL INSTRUMENTS \| SOFTWARE ENGINEER \| AUG 19 - NOV 20**
 
 Added basic module support of CompactRIO modules in LabVIEW NXG and their decomposition in Hardware Targets.
 
-### **COMVIVA \| PRODUCT DEVELOPMENT ENGINEER**
+### **COMVIVA \| PRODUCT DEVELOPMENT ENGINEER \| JUL 18 - AUG 19**
 
 Developed multiple Java plugins for MRTM for Indosat and Optus to efficiently manage their campaigns for over 50 million customers. I also worked on a REST microservice to enable batch request processing for loyalty points in the MRTM module which helped in improving the load distribution of real-time operations by over 35\%.
 
