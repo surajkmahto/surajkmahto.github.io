@@ -3,7 +3,9 @@
  -->
 Staff Software Engineer @ Flexport \| Ex-Shopify \| Ex-Tekion \| 7 YOE in Distributed Systems and Microservices
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/surajkumarmahto/)](https://www.linkedin.com/in/surajkumarmahto/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:contact.skm1997@gmail.com)](mailto:contact.skm1997@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/surajkumarmahto/) [![Twitter](https://img.shields.io/badge/<surajkmahto>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/surajkmahto)](https://twitter.com/surajkmahto) <a href="https://github.com/surajkmahto/surajkmahto.github.io/blob/main/SurajKumarMahto_Resume.pdf"><img src="cv.svg" alt="Curriculum Vitae" width="40" height="26"></a>
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/surajkumarmahto/)](https://www.linkedin.com/in/surajkumarmahto/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:contact.skm1997@gmail.com)](mailto:contact.skm1997@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/surajkumarmahto/) [![Twitter](https://img.shields.io/badge/<surajkmahto>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/surajkmahto)](https://twitter.com/surajkmahto) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/i.am.surajkumar/)](https://www.instagram.com/yourusername/)
+
+<a href="https://github.com/surajkmahto/surajkmahto.github.io/blob/main/SurajKumarMahto_Resume.pdf"><img src="cv.svg" alt="Curriculum Vitae" width="40" height="26"></a>
 
 ---
 
@@ -15,24 +17,31 @@ Staff Software Engineer @ Flexport \| Ex-Shopify \| Ex-Tekion \| 7 YOE in Distri
 
 ## Experience
 
-### **SHOPIFY \| SOFTWARE DEVELOPMENT ENGINEER 2 \| NOV 21 - PRESENT**
+### **FLEXPORT / SHOPIFY LOGISTICS | Staff Software Engineer, Omnichannel | Nov 2021 - Present | Bangalore, India**
 
-Joined Shopify as part of the acquisition of Deliverr. Working from scratch to build a return platform to reduce the overall complexity and time of return between seller and customer. Leading multiple projects to facilitate 3P integrations and provide return solution for merchants. Building shopify logistics - unbundled services i.e. returns and storage. 
-Storage as a service will enable merchants to effectively manage and distribute their inventory across fulfilment, wholesale, B2B and other networks.
+I joined Flexport as part of its acquisition of Shopify Logistics and Deliverr, which aimed to expand Flexport's global services into last-mile and fast e-commerce fulfillment. I am part of the Omnichannel team, where I focus on leading and building a platform team in India. My work revolves around organization-wide initiatives such as reducing infrastructure costs, minimizing vulnerabilities, and migrating systems to OpenSearch, all while ensuring strategic alignment across teams. 
 
+During my time at Shopify and Flexport, I led multiple initiatives to improve billing efficiency and enhance reporting, driving key improvements for the organization. One of my notable contributions includes developing an unbundled replenishment service that enables efficient inventory management across multiple channels, including fulfillment, wholesale, B2B, and long-term storage. Additionally, I pioneered the design and development of a comprehensive returns platform from scratch, providing merchants with tools to manage returns and restock inventory. 
 
-### **TEKION \| BACKEND DEVELOPER \| NOV 20 - NOV 21**
+In terms of technical stack, I work with **Typescript, NodeJS, MySQL, Serverless, Docker, REST, Koa, Knex, AWS Lambda, Cloudwatch, S3, SQS, EC2, Step Functions, Datadog, Metabase, Github, and CircleCI**.
 
-I have worked on Java and AWS to develop the e2e Retail and ERP systems for automobile dealerships.
-I got the chance to work with a very high-tech founding team(Ex-Tesla). I completed multiple Inbound/Outbound Integration of OEMs, Insurance Providers, and Dealerships in the ARC (Automotive Retail Cloud).
+### **TEKION | Software Engineer 2, Integrations Backend | Nov 2020 - Nov 2021 | Bangalore, India**
 
-### **NATIONAL INSTRUMENTS \| SOFTWARE ENGINEER \| AUG 19 - NOV 20**
+At Tekion, I had the opportunity to collaborate with a high-caliber founding team, many of whom came from Tesla, to create cutting-edge end-to-end retail and ERP systems tailored specifically for automobile dealerships. I focused on the integration of OEMs, insurance providers, and dealerships within the ARC (Automotive Retail Cloud), working on both inbound and outbound integrations to streamline data flows and ensure seamless communication across all platforms. 
 
-Added basic module support of CompactRIO modules in LabVIEW NXG and their decomposition in Hardware Targets.
+My role involved a variety of complex backend tasks using **Java, Spring Boot, Kafka, REST, SOAP, AWS, and Jenkins**, ensuring high performance and scalability across Tekion's cloud-based systems.
 
-### **COMVIVA \| PRODUCT DEVELOPMENT ENGINEER \| JUL 18 - AUG 19**
+### **NATIONAL INSTRUMENTS | Software Engineer, ASW NMCI | Aug 2019 - Nov 2020 | Bangalore, India**
 
-Developed multiple Java plugins for MRTM for Indosat and Optus to efficiently manage their campaigns for over 50 million customers. I also worked on a REST microservice to enable batch request processing for loyalty points in the MRTM module which helped in improving the load distribution of real-time operations by over 35\%.
+At National Instruments, I worked on the development of software for hardware integration. Specifically, I contributed to adding support for CompactRIO modules in **LabVIEW NXG**. I worked on the decomposition of CompactRIO modules into hardware targets, enhancing their functionality and improving the overall performance of the system. My work contributed to the seamless integration of LabVIEW with CompactRIO devices, ensuring that customers could leverage the full potential of National Instruments' hardware. 
+
+Technologies I worked with during this time include **C#, WPF, LabVIEW, Git, and Azure DevOps**.
+
+### **COMVIVA | Software Development Engineer, MobiLytix | July 2018 – Aug 2019 | Bangalore, India**
+
+At Comviva, I worked in the MobiLytix team, where I was responsible for developing Java plugins for the MRTM (Mobile Real-Time Management) platform used by telecommunications companies like Indosat and Optus. These plugins were used to manage campaigns for millions of customers, optimizing real-time campaign execution. I also developed a REST microservice for batch request processing for loyalty points, which helped improve load distribution for real-time operations by over 35%. 
+
+My key contributions during this time included optimizing the performance and scalability of the system using **Java, Kafka, Oracle DB, REST, SOAP, Maven, and Ansible**.
 
 ---
 
@@ -45,5 +54,4 @@ GPA 8.2
 ---
 
 ### INTERESTS
-Apart from being a backend developer, I like playing badminton and computer games. I also like to read about tech blogs.
-I love traveling to different places and exploring different cultures.
+Apart from being a staff backend developer, I enjoy playing badminton and computer games. I also enjoy reading tech blogs. I love traveling to different places, both in India and internationally, and exploring diverse foods and cultures.
