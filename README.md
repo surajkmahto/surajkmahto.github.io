@@ -1,7 +1,7 @@
 ## hi, i'm [Suraj Kumar Mahto](https://surajkmahto.github.io/)
 <!-- <img src="deliverr_red.png" alt="typescript" width="32" height="32"/>
  -->
-SDE 2 @ Shopify  \| Ex-Tekion \| Ex-NI \| 5 YOE in Java, REST, Kafka, AWS, and MicroServices
+Staff Software Engineer @ Flexport \| Ex-Shopify \| Ex-Tekion \| 7 YOE in Distributed Systems and Microservices
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/surajkumarmahto/)](https://www.linkedin.com/in/surajkumarmahto/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:contact.skm1997@gmail.com)](mailto:contact.skm1997@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/surajkumarmahto/) [![Twitter](https://img.shields.io/badge/<surajkmahto>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/surajkmahto)](https://twitter.com/surajkmahto) <a href="https://github.com/surajkmahto/surajkmahto.github.io/blob/main/SurajKumarMahto_Resume.pdf"><img src="cv.svg" alt="Curriculum Vitae" width="40" height="26"></a>
 
